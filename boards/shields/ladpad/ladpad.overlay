@@ -43,7 +43,7 @@
     label = "ENCODER";
     a-gpios = <&xiao_d 7 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
     b-gpios = <&xiao_d 8 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
-    resolution = <2>;
+    steps = <12>;
     status = "okay";
   };
 
