@@ -19,7 +19,7 @@
         &kp E          &kp F          &kp G          &kp H
         &bt BT_CLR_ALL &kp LG(X)      &kp LG(C)      &kp LG(V)
       >;
-      sensor-bindings = <&inc_dec_kp UP_ARROW DN_ARROW>;
+      sensor-bindings = <&inc_dec_kp PG_UP PG_DN>;
     };
   };
 };
