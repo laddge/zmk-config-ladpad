@@ -1,0 +1,2 @@
+config LADPAD
+    def_bool $(shields_list_contains,ladpad)

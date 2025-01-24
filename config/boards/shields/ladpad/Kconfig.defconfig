@@ -1,0 +1,6 @@
+if LADPAD
+
+config ZMK_KEYBOARD_NAME
+    default "ladpad"
+
+endif
