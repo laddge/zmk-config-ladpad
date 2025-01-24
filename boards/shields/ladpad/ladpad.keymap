@@ -34,7 +34,7 @@
         &kp E          &kp F          &kp G          &kp H
         &bt BT_CLR_ALL    &mt LCTRL X    &mt LCTRL C    &mt LCTRL V
       >;
-      sensor-bindings = <&inc_dec_kp PG_UP PG_DN &inc_dec_kp C_VOL_DN C_VOL_UP>;
+      sensor-bindings = <&inc_dec_kp PG_UP PG_DN>;
     };
   };
 };
